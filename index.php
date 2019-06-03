@@ -1,6 +1,6 @@
 <?php
 
-    echo "Hello World!";
+    echo "Inferno o palavra!";
     echo "Fala galewra!";
 
 ?>
